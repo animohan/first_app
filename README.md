@@ -1,5 +1,6 @@
 == README
 This is the first application for the Ruby on Rails project by AniMohan
+Randome update on 12/13
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
